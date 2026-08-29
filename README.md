@@ -1,10 +1,10 @@
 ### Yuki Ishii (Pakku8914)
 
-AWS・Snowflakeを中心としたクラウドデータ基盤（DWH）の構築・運用を専門とするバックエンド／データエンジニアです。Claude Codeを軸に、生成AIを活用したアプリケーション開発にも取り組んでいます。
+組込・制御からクラウドインフラ、バックエンド開発まで、要求分析から実装・運用まで一貫して手掛けてきたエンジニアです。プログラミングスクールでのメンター経験を活かし、技術を分かりやすく伝えることも得意としています。
 
 - 💼 Portfolio: https://github.com/Pakku8914/portfolio
 - 📝 Zenn: https://zenn.dev/pakku8914
-- 🛠 得意分野: クラウドデータ基盤 (AWS, Snowflake, Terraform, Airflow, dbt), バックエンド開発 (PHP/Laravel, Ruby on Rails), AI活用・開発 (Claude Code, Claude API)
+- 🛠 得意分野: 組込・制御 (C, C++, C#), クラウドインフラ (AWS, Snowflake, Terraform), バックエンド開発 (PHP/Laravel, Ruby on Rails), AI活用 (Claude Code, Claude API)
 
 #### 注目プロジェクト
 
